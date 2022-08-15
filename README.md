@@ -41,7 +41,7 @@
 <p align="center"><a href="https://stackoverflow.com/users/5633994/ishfaq-babar"><img alt="Stack Overflow profile" height="58" width="208" src="https://stackoverflow.com/users/flair/5633994.png?theme=dark"/></a></p>
   
 <p align="justify">Prior to beginning my career in software development,  I worked as an Electrical Engineer in a variety of sectors such as  Telecommunication, Power(electrical), and industrial automation.This gave me an inside look at how the layers of technologies work together. Once I joined Software development industry as full fledge Developer, I started my Journey with Python language and end Up with Dot.NET Development. I have created various ODOO Modules in Python, including PDF Reports, Excel Reports, Web APIs, and Point of Sale. I also Managed PostgreSQL Databases along with Ubuntu servers and many more things related to Linux Administration and Web Hosting (Nginx Reverse proxy setup).</p>
-<p align="justify">Currently I am also working on projects with Dot .NET Framework for Education industry and developing new software solutions and migrating old code base to  new Dot.net Core 6. Integrating LTI (Learning Tools Interoperability) to LMS (Learning Management System) and developing APIs for LMS using OpenAPI Specification. </p>
+<p align="justify">Currently I am working on projects with Dot .NET Framework for Education industry and developing new software solutions and migrating old code base to  new Dot.net Core 6. Integrating LTI (Learning Tools Interoperability) to LMS (Learning Management System) and developing APIs for LMS using OpenAPI Specification. </p>
 
 
 
