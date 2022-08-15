@@ -5,7 +5,7 @@
 [![Ishfaq Babar's StackOverflow](https://img.shields.io/badge/-StackOverflow-blue?style=flat-square&logo=stackoverflow&color=F8F9F9&link=https://stackoverflow.com/users/5633994/ishfaq-babar)](https://stackoverflow.com/users/5633994/ishfaq-babar)
 [![Ishfaq Babar's LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/babarlhr/)](https://www.linkedin.com/in/babarlhr/)
 [![Ishfaq Babar's Youtube](https://img.shields.io/badge/-Youtube-blue?style=flat-square&logo=youtube&logoColor=white&color=FF0000&link=https://www.youtube.com/channel/UC26jkElgPN7XpkKnjIqpM2A)](https://www.youtube.com/channel/UC26jkElgPN7XpkKnjIqpM2A)
-[![Ishfaq Babar's Twitch](https://img.shields.io/badge/-Twitch-blue?style=flat-square&logo=twitch&logoColor=white&color=9147FF&link=https://www.twitch.tv/babarlhr](https://www.twitch.tv/babarlhr)
+[![Ishfaq Babar's Twitch](https://img.shields.io/badge/-Twitch-blue?style=flat-square&logo=twitch&logoColor=white&color=9147FF&link=https://www.twitch.tv/babarlhr)](https://www.twitch.tv/babarlhr)
 
 <p align="justify">I am a professional Software Developer at Virtual University of Pakistan. Although I work for Virtual University but my opinions are entirely my own. Whether they are written using Python, C#,.NET, or any other programming language.</p>
 
