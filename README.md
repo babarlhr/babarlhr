@@ -7,7 +7,7 @@
 [![Ishfaq Babar's Youtube](https://img.shields.io/badge/-Youtube-blue?style=flat-square&logo=youtube&logoColor=white&color=FF0000&link=https://www.youtube.com/channel/UC26jkElgPN7XpkKnjIqpM2A)](https://www.youtube.com/channel/UC26jkElgPN7XpkKnjIqpM2A)
 [![Ishfaq Babar's Twitch](https://img.shields.io/badge/-Twitch-blue?style=flat-square&logo=twitch&logoColor=white&color=9147FF&link=https://www.twitch.tv/babarlhr)](https://www.twitch.tv/babarlhr)
 
-<p align="justify">I am a professional Software Developer at Virtual University of Pakistan. Although I work for Virtual University but my opinions are entirely my own. Whether they are written using Python, C#,.NET, or any other programming language.</p>
+<p align="justify">I am a professional Software Developer at Govt of Pakistan. Although I work for Government but my opinions are entirely my own. Whether they are written using Python, C#,.NET, or any other programming language.</p>
 
 <p align="justify">
     There is not much here but i hope to add it soon.
@@ -40,8 +40,8 @@
           
 <p align="center"><a href="https://stackoverflow.com/users/5633994/ishfaq-babar"><img alt="Stack Overflow profile" height="58" width="208" src="https://stackoverflow.com/users/flair/5633994.png?theme=dark"/></a></p>
   
-<p align="justify">Prior to beginning my career in software development,  I worked as an Electrical Engineer in a variety of organizations, contributing to the telecommunications, Power(electrical), and industrial automation industries.This gave me an inside look at how the physical layers of technologies such as physics, computer science, and electrical work together Once I joined Software development industry as full fledge Developer, I started my Journey with Python language and end Up with Dot.NET Development. I have created various ODOO Modules in Python, including PDF Reports, Web APIs, and Point of Sale. I also Managed my company's PostgreSQL Databases along with Ubuntu servers and many more things related to Linux Administration and Web Hosting (Nginx Reverse proxy setup).</p>
-<p align="justify">Currently I am working on projects with Dot .NET Framework for Education industry and developing new software solutions and migrating old code base to Dot.net Core 6. Integrating LTI (Learning Tools Interoperability) to our LMS (Learning Management System). I am also developing APIs for LMS using OpenAPI Specification. </p>
+<p align="justify">Prior to beginning my career in software development,  I worked as an Electrical Engineer in a variety of sectors such as  Telecommunication, Power(electrical), and industrial automation.This gave me an inside look at how the layers of technologies work together. Once I joined Software development industry as full fledge Developer, I started my Journey with Python language and end Up with Dot.NET Development. I have created various ODOO Modules in Python, including PDF Reports, Excel Reports, Web APIs, and Point of Sale. I also Managed PostgreSQL Databases along with Ubuntu servers and many more things related to Linux Administration and Web Hosting (Nginx Reverse proxy setup).</p>
+<p align="justify">Currently I am also working on projects with Dot .NET Framework for Education industry and developing new software solutions and migrating old code base to  new Dot.net Core 6. Integrating LTI (Learning Tools Interoperability) to LMS (Learning Management System) and developing APIs for LMS using OpenAPI Specification. </p>
 
 
 
