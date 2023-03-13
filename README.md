@@ -7,7 +7,7 @@
 [![Ishfaq Babar's Youtube](https://img.shields.io/badge/-Youtube-blue?style=flat-square&logo=youtube&logoColor=white&color=FF0000&link=https://www.youtube.com/channel/UC26jkElgPN7XpkKnjIqpM2A)](https://www.youtube.com/channel/UC26jkElgPN7XpkKnjIqpM2A)
 [![Ishfaq Babar's Twitch](https://img.shields.io/badge/-Twitch-blue?style=flat-square&logo=twitch&logoColor=white&color=9147FF&link=https://www.twitch.tv/babarlhr)](https://www.twitch.tv/babarlhr)
 
-<p align="justify">I am a professional Software Developer at Govt of Pakistan. Although I work for Government but my opinions are entirely my own. Whether they are written using Python, C#,.NET, or any other programming language.</p>
+<p align="justify">Greetings! I'm a skilled Software Developer with extensive experience in .NET, Python, and ODOO framework. I'm passionate about developing innovative software solutions that meet the needs of various industries, and I'm always eager to explore new technologies and tools to enhance my skills. My experience includes creating software for the education industry, integrating LTI to LMS, and developing APIs using OpenAPI Specification. I also have extensive knowledge in the ODOO platform and have worked on numerous projects within this framework. With my expertise and commitment to quality, I'm confident that I can deliver exceptional results for any project. Thank you for visiting my profile, and I look forward to working with you!</p>
 
 <p align="justify">
     There is not much here but i hope to add it soon.
@@ -21,7 +21,7 @@
     ‏‏‎ ‎
 </p>
 
-<p align="justify">You can see some of the my projects that I have started and maintained in my GitHub profile and ofcourse there are other commercial projects that I cannot disclose.</p>
+<p align="justify">In my GitHub profile, you'll find some of the projects that I've initiated and maintained. While there are additional commercial projects that I'm unable to disclose at this time.</p>
 
 <p align="center">
     <a href="https://github.com/sponsors/babarlhr"><img alt="GitHub sponsors" height="30" src="https://img.shields.io/github/sponsors/babarlhr?style=social"/></a>
@@ -40,8 +40,7 @@
           
 <p align="center"><a href="https://stackoverflow.com/users/5633994/ishfaq-babar"><img alt="Stack Overflow profile" height="58" width="208" src="https://stackoverflow.com/users/flair/5633994.png?theme=dark"/></a></p>
   
-<p align="justify">Prior to beginning my career in software development,  I worked as an Electrical Engineer in a variety of sectors such as  Telecommunication, Power(electrical), and industrial automation.This gave me an inside look at how the layers of technologies work together. Once I joined Software development industry as full fledge Developer, I started my Journey with Python language and end Up with Dot.NET Development. I have created various ODOO Modules in Python, including PDF Reports, Excel Reports, Web APIs, and Point of Sale. I also Managed PostgreSQL Databases along with Ubuntu servers and many more things related to Linux Administration and Web Hosting (Nginx Reverse proxy setup).</p>
-<p align="justify">Currently I am working on projects with Dot .NET Framework for Education industry and developing new software solutions and migrating old code base to  new Dot.net Core 6. Integrating LTI (Learning Tools Interoperability) to LMS (Learning Management System) and developing APIs for LMS using OpenAPI Specification. </p>
+<p align="justify">Currently, my focus is on utilizing Dot .NET Framework to create innovative software solutions for the Education industry. I'm also engaged in migrating existing code bases to the new Dot.net Core 6 and integrating LTI (Learning Tools Interoperability) to LMS (Learning Management System). Additionally, I'm developing APIs for LMS using OpenAPI Specification. Alongside these endeavors, I'm actively involved in the ODOO platform and possess extensive knowledge in this area.</p>
 
 
 
